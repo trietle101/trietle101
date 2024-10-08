@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Triet Le</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+<h3 align="center">A passionate Front-end Developer and a tech-savvy from Viet Nam</h3>
 
 - 🔭 I’m currently working on [Phimcu Streaming Platform](https://github.com/trietle101/phimcu.git)
 
