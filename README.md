@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **trietle101@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JmXX63Z6PQ29d4HX3DxLcp_vuOP0lqcF/view?usp=sharing](https://drive.google.com/file/d/1JmXX63Z6PQ29d4HX3DxLcp_vuOP0lqcF/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IVmnqeHNQbxNqJK0pmsS8gwZnNVOq4jZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
