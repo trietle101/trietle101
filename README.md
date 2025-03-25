@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Triet Le</h1>
 <h3 align="center">A passionate Front-end Developer and a tech-savvy from Viet Nam</h3>
 
-- 🔭 I’m currently working on [Phimcu Streaming Platform](https://github.com/trietle101/phimcu.git)
-
 - 📫 How to reach me **trietle101@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1IVmnqeHNQbxNqJK0pmsS8gwZnNVOq4jZ/view?usp=sharing)
